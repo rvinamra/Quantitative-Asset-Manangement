@@ -1,2 +1,2 @@
 # Quantitative-Asset-Manangement
-This repository contains replication of some of the famous investment strategy replication
+This repository contains replication of the various investment strategies such as Momentum, Risk Parity, and Size/Value Portfolios. 
